@@ -1,22 +1,26 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background: #222324;
+    color: #fff;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.form-input-name,
+.form-input-submit{
+    font-family: 'Josefin Sans',sans-serif;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+border: 0;
 }
+.firstDiv{
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+.heroImage{
+    width: 200px;
+    height: 300px;
 
-.App-link {
-  color: #09d3ac;
 }
