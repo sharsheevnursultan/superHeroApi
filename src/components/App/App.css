@@ -1,0 +1,52 @@
+body {
+    background-color: #191A1A;
+
+}
+
+* {
+    color: white;
+    font-family: 'Lemonada', cursive;
+}
+
+.imgSize {
+    width: 100%;
+    height: 290px;
+}
+
+.title-char {
+    min-width: 40%;
+}
+
+.form-input-name,
+.form-input-submit {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid brown;
+    background: #343a40;
+    color: white;
+}
+
+.form-input-submit {
+    background: brown;
+}
+
+.firstDiv {
+    display: flex;
+    flex-flow: column;
+}
+
+.margin0auto {
+    margin: 20px auto;
+}
+
+.infoPlaces {
+    font-size: .7rem;
+    background-color: #aa3333;
+    display: flex;
+    justify-content: space-between;
+    border-radius: .25rem;
+    margin: .25rem;
+    padding: .5rem;
+    border: 1px solid #aa3333;
+}

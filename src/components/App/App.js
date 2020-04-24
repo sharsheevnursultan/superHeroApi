@@ -1,13 +1,13 @@
 import React from 'react';
-import Success from "./MainFetcher";
+import MainFetcher from "../MainFetcher/MainFetcher";
 import "./App.css"
 
 
-function App(props) {
+function App() {
 
     return (
             <div className="App">
-                <Success/>
+                <MainFetcher/>
             </div>
     );
 }
