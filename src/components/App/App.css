@@ -1,5 +1,5 @@
 body {
-    background-color: #030713;
+    background-color: #383B3C;
 
 }
 
@@ -21,13 +21,13 @@ body {
     margin: 10px;
     padding: 10px;
     border-radius: 5px;
-    border: 1px solid #3C4259;
-    background: #3C4259;
+    border: 1px solid #717678;
+    background: #717678;
     color: white;
 }
 
 .form-input-submit {
-    background: #22273C;
+    background: #717678;
 }
 
 .firstDiv {
@@ -41,11 +41,11 @@ body {
 
 .infoPlaces {
     font-size: .7rem;
-    background-color: #22273C;
+    background-color: #54585A;
     display: flex;
     justify-content: space-between;
     border-radius: .25rem;
     margin: .25rem;
     padding: .5rem;
-    border: 1px solid #22273C;
+    border: 1px solid #54585A;
 }
