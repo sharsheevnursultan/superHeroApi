@@ -5,13 +5,13 @@ const Status = (props) => {
     return (
         <div>
             <div>
-                <p className='m-0'>
+                <p className='status-text'>
                     Status: {state.connection}
                 </p>
-                <p className='m-0'>
+                <p className='status-text'>
                     Items found: {state.length}
                 </p>
-                <p className='m-0'>
+                <p className='status-text'>
                     Item №: {state.itemHero + 1}
                 </p>
             </div>
