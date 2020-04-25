@@ -15,7 +15,9 @@ body {
 .title-char {
     min-width: 40%;
 }
-
+.form-input-name::placeholder{
+    color: white;
+}
 .form-input-name,
 .form-input-submit {
     margin: 10px;
@@ -27,7 +29,7 @@ body {
 }
 
 .form-input-submit {
-    background: #717678;
+    background: #54585A;
 }
 
 .firstDiv {

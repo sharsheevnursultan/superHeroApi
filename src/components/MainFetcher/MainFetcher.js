@@ -5,6 +5,7 @@ import InputHeader from "./InputHeader/InputHeader";
 import MainInfo from "./MainInfo/MainInfo";
 import BigInfo from "./BigInfo/BigInfo";
 import Status from "./Status/Status";
+import Title from "./Title/Title";
 
 
 class MainFetcher extends Component {
@@ -210,6 +211,7 @@ class MainFetcher extends Component {
         return (
             <div className='container'>
                 <div>
+                    <Title/>
                     <InputHeader itemHeroChanger={this.itemHeroChanger} getData={this.getData}/>
                     <Status state={this.state} />
                 </div>
