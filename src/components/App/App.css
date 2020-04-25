@@ -15,9 +15,11 @@ body {
 .title-char {
     min-width: 40%;
 }
-.form-input-name::placeholder{
+
+.form-input-name::placeholder {
     color: white;
 }
+
 .form-input-name,
 .form-input-submit {
     margin: 10px;
@@ -51,7 +53,22 @@ body {
     padding: .5rem;
     border: 1px solid #54585A;
 }
-.status-text{
+
+.status-text {
     margin: 0 .25rem;
     font-size: .7rem;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #54585A;
+    border-radius: 3px;
+
 }
