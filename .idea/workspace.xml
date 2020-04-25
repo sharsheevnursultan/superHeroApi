@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a98abdd7-2b97-4de2-a8a3-6c411862b0f9" name="Default Changelist" comment="" />
+    <list default="true" id="a98abdd7-2b97-4de2-a8a3-6c411862b0f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Status" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -51,16 +54,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\super-hero-api\src\images" />
       <recent name="C:\Users\User\Desktop\super-hero-api\src\components\Status" />
       <recent name="C:\Users\User\Desktop\super-hero-api\src\components\BigInfo" />
       <recent name="C:\Users\User\Desktop\super-hero-api\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\super-hero-api\public" />
       <recent name="C:\Users\User\Desktop\super-hero-api\src\components\MainFetcher" />
       <recent name="C:\Users\User\Desktop\super-hero-api\src\components\fetcher" />
       <recent name="C:\Users\User\Desktop\super-hero-api\src\audio" />
       <recent name="C:\Users\User\Desktop\super-hero-api\src\images" />
-      <recent name="C:\Users\User\Desktop\super-hero-api\src\components\app" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -103,7 +107,7 @@
       <workItem from="1586774915603" duration="5002000" />
       <workItem from="1586872714553" duration="1348000" />
       <workItem from="1586875212418" duration="97000" />
-      <workItem from="1587730809168" duration="7896000" />
+      <workItem from="1587730809168" duration="8318000" />
     </task>
     <servers />
   </component>
