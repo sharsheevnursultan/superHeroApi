@@ -55,7 +55,7 @@ body {
 }
 
 .status-text {
-    margin: 0 .25rem;
+    margin: 0 1rem;
     font-size: .7rem;
 }
 
@@ -71,4 +71,11 @@ body {
     background-color: #54585A;
     border-radius: 3px;
 
+}
+
+.hero-name{
+    display: flex;
+    justify-content: space-between;
+    margin: .5rem;
+    padding: .5rem;
 }

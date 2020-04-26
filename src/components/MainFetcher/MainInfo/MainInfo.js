@@ -4,7 +4,7 @@ const MainInfo = (props) => {
 
     return (
         <div className='col-md-3'>
-            <div className='infoPlaces'>
+            <div className='hero-name'>
                 <span className='title-char'>Name: </span><span>{props.state.name}</span>
             </div>
             <div className='d-flex'>
